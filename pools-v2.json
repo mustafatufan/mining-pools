@@ -1812,5 +1812,14 @@
     "addresses": [],
     "tags": ["/braiinssolo/"],
     "link": "https://solo.braiins.com"
+  },
+  {
+    "id": 169,
+    "name": "SoloPool.com",
+    "addresses": [
+      "bc1qreaftg3lr53nv84dnxhcvchmswevzlp9tdj2jd"
+    ],
+    "tags": ["/Mined @ SoloPool.Com/"],
+    "link": "https://solopool.com"
   }
 ]
