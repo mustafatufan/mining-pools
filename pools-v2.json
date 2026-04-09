@@ -1821,5 +1821,12 @@
     ],
     "tags": ["/Mined @ SoloPool.Com/"],
     "link": "https://solopool.com"
+  },
+  {
+    "id": 170,
+    "name": "Noderunners",
+    "addresses": [],
+    "tags": ["/Noderunners/"],
+    "link": "https://pool.noderunners.network"
   }
 ]
