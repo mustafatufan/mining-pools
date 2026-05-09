@@ -1828,5 +1828,15 @@
     "addresses": [],
     "tags": ["/Noderunners/"],
     "link": "https://pool.noderunners.network"
+  },
+  {
+    "id": 171,
+    "name": "solo100.org",
+    "addresses": [
+      "bc1qzhf8vl89ev6jcly6zexdehef4zgnh3w8ahf97a",
+      "tb1qflw7ufulwnuuwzjx55ka02ku0fcxy4xalv8td4"
+    ],
+    "tags": ["/solo100.org/"],
+    "link": "https://solo100.org"
   }
 ]
